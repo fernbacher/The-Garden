@@ -1,6 +1,7 @@
-![eb26ca8a7628644f4e16b6e08adc11f5](https://user-images.githubusercontent.com/66071319/154318834-db5c16e3-80bb-4308-8802-e77c32549eba.png)
-# Garden Links
+<h1 align="center">Garden Links
+</h1>
 
+![eb26ca8a7628644f4e16b6e08adc11f5](https://user-images.githubusercontent.com/66071319/154319315-42b1cf25-7ad5-4830-b321-307bd17ee27a.png)
 ## Table Of Contents
 - [Guides](#Guides)
 - [Windows](#Windows)
